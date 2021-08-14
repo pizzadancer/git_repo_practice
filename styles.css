@@ -1,0 +1,24 @@
+.bookCovers {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.books {
+  text-align: center;
+}
+
+#bookDescription {
+  margin-right: 175px;
+  margin-left: 175px;
+  text-align: justify; 
+}
+
+body {
+  background-color:darkolivegreen
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
